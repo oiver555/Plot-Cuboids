@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.158.0",
+    "vite": "^5.0.0"
+  }
+}
